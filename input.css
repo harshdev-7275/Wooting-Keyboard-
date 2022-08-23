@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+/* section #woot {
+    background-image: url(./img/bg-wootup.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: contain;
+    z-index: 10;
+} */
+
+.hover-underline-animation {
+    display: inline-block;
+    position: relative;
+    
+  }
+
+  .hover-underline-animation:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #fff;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+  }
+  
+  .hover-underline-animation:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
