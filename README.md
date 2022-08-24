@@ -33,9 +33,15 @@ ____
 
 
   * ### Some animation features
-    > <img src='file:///C:/Users/harsh/Desktop/vids/01/vid/items-animation.mp4' width='' alt='Video Walkthrough' />
 
-     ><img src='file:///C:/Users/harsh/Desktop/vids/01/vid/men-animation.mp4' width='' alt='Video Walkthrough' />
+
+   > https://user-images.githubusercontent.com/111612233/186244601-f8bdcf70-b982-4d38-8ab8-d092a50ff5d7.mp4
+
+
+
+   >https://user-images.githubusercontent.com/111612233/186244713-ad8e5cda-45a1-4010-ac52-d1847786248b.mp4
+
+
 
 ---
 
