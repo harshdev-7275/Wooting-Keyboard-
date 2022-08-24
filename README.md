@@ -9,7 +9,7 @@ ____
   ---
 ## About this website
  >* [Wooting](https://next.wooting.io/ "Wooting official landing page") is a ecommerce website of keyboards.
- >* I  tried to clone this website with some additional changes. You can view my version by clicking here.
+ >* I  tried to clone this website with some additional changes. You can view my version by clicking [here](https://wooting-landingpage.netlify.app/).
 
  ## Video Walkthrough (click on the image to watch video)
 
